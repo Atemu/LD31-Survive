@@ -12,9 +12,9 @@ The game is pretty simple to play, you can turn left or right with your arrow ke
 Enjoy !
 
 ## Screenshots
-* http://i.imgur.com/89H1uR7.png
-* http://i.imgur.com/tdvHJqr.png
-* http://i.imgur.com/jlWC8M2.png
+![Screenshot #1](http://i.imgur.com/89H1uR7.png)
+![Screenshot #2](http://i.imgur.com/tdvHJqr.png)
+![Screenshot #3](http://i.imgur.com/jlWC8M2.png)
 
 ## Play
 http://atemu.itch.io/survive
